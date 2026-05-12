@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2022.2 (64-bit)
+# SW Build 3671981 on Fri Oct 14 04:59:54 MDT 2022
+# IP Build 3669848 on Fri Oct 14 08:30:02 MDT 2022
+# Start of session at: Sat May  9 13:03:58 2026
+# Process ID: 22426
+# Current directory: /home/ega/Documents/PrakSDL/FIX/FSM_Moore/Perc1_FSM_Moore/Perc1_FSM_Moore.runs/impl_1
+# Command line: vivado -log top.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source top.tcl -notrace
+# Log file: /home/ega/Documents/PrakSDL/FIX/FSM_Moore/Perc1_FSM_Moore/Perc1_FSM_Moore.runs/impl_1/top.vdi
+# Journal file: /home/ega/Documents/PrakSDL/FIX/FSM_Moore/Perc1_FSM_Moore/Perc1_FSM_Moore.runs/impl_1/vivado.jou
+# Running On: banurea, OS: Linux, CPU Frequency: 2117.926 MHz, CPU Physical cores: 16, Host memory: 15947 MB
+#-----------------------------------------------------------
+source top.tcl -notrace
